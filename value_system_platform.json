@@ -1,0 +1,272 @@
+{
+  "system": "UNE Values",
+  "description": "The philosophical and ethical constitution of the UNE civilization. Twelve maxims agreed upon by national vote, forming the platform for all socio-economic systems.",
+  "source_universe": "The Middling Utopia series",
+  "values": [
+    {
+      "id": 1,
+      "name": "The Value of Violence",
+      "maxim": "Violence breaks bonds. Nothing else does.",
+      "individual_collective_score": 4,
+      "score_rationale": "While the act is individual, its moral weight is defined by its impact on the collective—the 'bonds' between people. An individual responsibility with a collective definition.",
+      "analysis": {
+        "conceptual_depth": "Acknowledges violence as a fundamental, transformative force in nature and society. It reframes violence from purely negative to a necessary element of change, emphasizing the profound consequence of breaking bonds.",
+        "strengths": ["Promotes critical thinking about actions and impacts", "Balances realism (violence exists) with idealism (use it thoughtfully)"],
+        "areas_for_attention": ["Risk of misinterpretation as condoning violence", "Requires careful education and communication"],
+        "addressed_by": ["The Warden System"]
+      },
+      "practical_application": {
+        "individual": "Encourages thoughtful consideration of actions on relationships and community.",
+        "collective": "Supports a societal structure where violence is used judiciously, with awareness of consequences.",
+        "economic": "Monetizes a disciplined warrior ethos, reduces costs of crime, promotes stability."
+      },
+      "philosophical_influences": ["Stoicism (acceptance of reality)", "Sun Tzu & Machiavelli (strategic understanding)", "Friedrich Nietzsche (will to power/destructive-creative force)", "Joseph Campbell ('dragon slaying' in the hero's journey)"],
+      "categorization_notes": "Bespoke. Underneath lies the true treasure: bonds. Phrased to condition critical thinking."
+    },
+    {
+      "id": 2,
+      "name": "The Value of Us",
+      "maxim": "Wherever there is a human being, there is an opportunity for Value.",
+      "individual_collective_score": 9,
+      "score_rationale": "The most collectivist Value. It locates the source of all value in the human collective itself, framing every individual as a node in a network of value creation.",
+      "analysis": {
+        "conceptual_depth": "Asserts that human presence is the source of all value. Promotes radical inclusivity and equality, recognizing both tangible and intangible human contributions.",
+        "strengths": ["Encourages diversity, inclusion, and full participation", "Motivational and aspirational, driving innovation"],
+        "areas_for_attention": ["Requires clear guidelines on measuring 'Value'", "Needs balance between economic and humanistic perspectives"],
+        "addressed_by": ["The Warden System", "Economists"]
+      },
+      "practical_application": {
+        "individual": "Motivates recognition of inherent worth and potential, boosting self-esteem.",
+        "collective": "Promotes inclusivity and dynamic, participatory society. A full rejection of 'supremacy'.",
+        "economic": "Encourages a diversified economy where multiple forms of contribution (including community and family bonds) are valued."
+      },
+      "philosophical_influences": ["Stoicism & Buddhism (cosmopolitanism, compassion)", "Karl Marx & Adam Smith (synthesis: human potential as source of value)", "Judeo-Christian tradition (inherent human dignity)"],
+      "categorization_notes": "Stoic. Foundational social Value."
+    },
+    {
+      "id": 3,
+      "name": "The Value of Selfishness",
+      "maxim": "Be selfish. Particularly if it benefits someone else.",
+      "individual_collective_score": 3,
+      "score_rationale": "Begins with a radically individualistic premise but immediately subordinates it to a collective condition. The engine is individual, the steering is collective.",
+      "analysis": {
+        "conceptual_depth": "Champions enlightened self-interest. Reconceptualizes selfishness, arguing that the highest self-interest creates spillover benefits for others, aligning personal gain with social responsibility.",
+        "strengths": ["Reconciles personal motivation with social good", "Fosters sustainable practices of doing good"],
+        "areas_for_attention": ["Risk of justifying selfishness by fabricating benefits", "May undermine promotion of pure altruism"],
+        "addressed_by": ["The Warden System", "Economists", "Justice"]
+      },
+      "practical_application": {
+        "individual": "Encourages healthy self-interest that considers impact on others.",
+        "collective": "Creates a society where personal and national gains align with communal benefits, building high trust.",
+        "economic": "Drives value strategies that deliver societal benefits (social entrepreneurship, sustainability)."
+      },
+      "philosophical_influences": ["Ayn Rand (inverted/subverted)", "Adam Smith (explicit 'invisible hand')", "Friedrich Nietzsche (channeling self-overcoming into social framework)"],
+      "categorization_notes": "Bespoke."
+    },
+    {
+      "id": 4,
+      "name": "The Value of Daily",
+      "maxim": "The willing are led by fate, the reluctant are dragged.",
+      "individual_collective_score": 2,
+      "score_rationale": "Deeply individualistic. Focuses on personal agency, attitude, and choice in engaging with one's life path. 'Fate' is defined as the sum of one's own choices.",
+      "analysis": {
+        "conceptual_depth": "Values proactivity, engagement, and embracing one's path with agency. Discourages apathy and passive resistance. Explores acceptance vs. resistance.",
+        "strengths": ["Highly motivational", "Universally relevant across life contexts"],
+        "areas_for_attention": ["Risk of oversimplifying complex situations", "Potential misinterpretation as promoting passivity"],
+        "addressed_by": ["The Warden System"]
+      },
+      "practical_application": {
+        "individual": "Encourages embracing opportunities proactively, fostering growth and resilience.",
+        "collective": "Promotes a culture of engagement, reducing apathy. Enhances direct democracy with prized, clear debate.",
+        "economic": "Supports a proactive workforce and entrepreneurial spirit, critical for innovation."
+      },
+      "philosophical_influences": ["Stoicism & Lao Tzu (Amor Fati fused with Wu Wei)", "Joseph Campbell (the 'call to adventure')", "Existentialism (Camus/Sartre - choice and attitude)"],
+      "categorization_notes": "Stoic. A meta-Value."
+    },
+    {
+      "id": 5,
+      "name": "The Value of Things",
+      "maxim": "Happiness can be found in the pursuit of many things, but not in things alone.",
+      "individual_collective_score": 4,
+      "score_rationale": "Focuses on personal fulfillment and internal state. Guides the individual away from materialism toward meaningful pursuits, which may incidentally have collective benefits.",
+      "analysis": {
+        "conceptual_depth": "Discourages excessive materialism. Value is found in the process of creation, pursuit, and experience, not in mere ownership. Distinguishes intrinsic from extrinsic rewards.",
+        "strengths": ["Promotes mental and emotional well-being", "Encourages reflection on true sources of happiness"],
+        "areas_for_attention": ["Needs clarification that 'things' can facilitate meaningful activities", "Risk of sounding clichéd without concrete examples"],
+        "addressed_by": ["The Warden System"]
+      },
+      "practical_application": {
+        "individual": "Encourages finding fulfillment in experiences and growth over material accumulation.",
+        "collective": "Supports a cultural shift away from materialism toward sustainable, enriching choices.",
+        "economic": "Fosters an economy that values services, experiences, and sustainability over pure consumption."
+      },
+      "philosophical_influences": ["Seneca & Buddhism (refutation of materialism)", "Ralph Waldo Emerson (self-reliance, idealism)", "Existentialism (meaning created through active pursuit)"],
+      "categorization_notes": "Bespoke."
+    },
+    {
+      "id": 6,
+      "name": "The Value of Obstacles",
+      "maxim": "The obstacle in the path becomes the path. Gain strength by walking alone, for when you join the shared path; we stride beyond.",
+      "individual_collective_score": 5,
+      "score_rationale": "The most perfectly balanced Value. Explicitly champions both individual resilience ('walk alone') and collective achievement ('we stride beyond').",
+      "analysis": {
+        "conceptual_depth": "Values resilience, problem-solving, and collaborative synergy. The highest value is turning a problem into a solution that benefits the group. Integrates personal development and collective achievement.",
+        "strengths": ["Highly inspirational and motivational", "Flexible across personal, professional, and communal contexts"],
+        "areas_for_attention": ["The term 'stride beyond' is open-ended and could use context", "Challenge of balancing individualism and collectivism in practice"],
+        "addressed_by": ["The Warden System"]
+      },
+      "practical_application": {
+        "individual": "Motivates personal resilience and self-discovery through overcoming challenges.",
+        "collective": "Promotes a society that values perseverance and cooperation to overcome greater challenges.",
+        "economic": "Encourages a resilient economy where collaboration leads to breakthroughs."
+      },
+      "philosophical_influences": ["Stoicism (core tenet - the obstacle is the way)", "Friedrich Nietzsche ('what does not kill me...')", "Joseph Campbell (hero's journey structure)"],
+      "categorization_notes": "Stoic."
+    },
+    {
+      "id": 7,
+      "name": "The Value of Interest",
+      "maxim": "Trust, when given, pays dividends. Distrust, when earned, accrues interest.",
+      "individual_collective_score": 6,
+      "score_rationale": "Trust is a social currency. While built by individuals, its value is derived from the collective framework it enables. Emphasizes the systemic cost of distrust and reward of trust.",
+      "analysis": {
+        "conceptual_depth": "Establishes trust as the fundamental social and economic currency with compounding returns. Uses financial metaphor to describe long-term social 'investments' and 'costs'. Integral to data privacy and AI ethics in UNE.",
+        "strengths": ["Promotes deep ethical reflection", "Supports system integrity by linking trust to tangible rewards"],
+        "areas_for_attention": ["Metaphor requires clear communication", "Challenging balance between surveillance/transparency and autonomy"],
+        "addressed_by": ["The Warden System", "Justice", "The Merit Democracy"]
+      },
+      "practical_application": {
+        "individual": "Highlights importance of building trust, enhancing relationships. Gives deference to experts.",
+        "collective": "Creates a stable, cohesive society where trust is fundamental, reducing conflict.",
+        "economic": "Supports a stable, efficient economy. Money is considered a metric of trust with society."
+      },
+      "philosophical_influences": ["Adam Smith (financial metaphor for social capital)", "Machiavelli & Gracian (inverted - system punishes distrust)", "Carl Jung (psychological 'debt' of the shadow)"],
+      "categorization_notes": "Bespoke."
+    },
+    {
+      "id": 8,
+      "name": "The Value of Enough",
+      "maxim": "We offer to others what they need. To ourselves, we offer what is enough.",
+      "individual_collective_score": 8,
+      "score_rationale": "Primarily collectivist. Centers on equity, distribution, and moderation for the health of the whole. The individual's duty is generosity to others and moderation for self.",
+      "analysis": {
+        "conceptual_depth": "Advocates for sufficiency, generosity, and equitable distribution. Balances altruism with self-care. Promotes a philosophy of moderation and ethical resource distribution.",
+        "strengths": ["Promotes balanced, sustainable living", "Encourages community cohesion and mutual support"],
+        "areas_for_attention": ["Requires clear definition of 'needs' vs. 'enough'", "Risk of promoting overly minimalist lifestyles"],
+        "addressed_by": ["The Warden System"]
+      },
+      "practical_application": {
+        "individual": "Encourages balanced lifestyle and personal reflection on what is 'enough'. Foundation for no poverty.",
+        "collective": "Supports social equity, meets basic needs, encourages progress. Enables charitable foreign policy.",
+        "economic": "Encourages sustainable practices, stabilizes production, disconnects from financial market swings."
+      },
+      "philosophical_influences": ["Aristotle & Buddhism (golden mean, middle path)", "Lao Tzu (knowing when you have enough)", "Karl Marx (personalized version of 'from each...to each')"],
+      "categorization_notes": "Bespoke."
+    },
+    {
+      "id": 9,
+      "name": "The Value of Control",
+      "maxim": "We have power over our minds, not events around us. Control your thoughts to control your power.",
+      "individual_collective_score": 1,
+      "score_rationale": "The most individualistic Value. A command for absolute self-mastery, locating all power and responsibility within the individual's own mind.",
+      "analysis": {
+        "conceptual_depth": "Values self-mastery, emotional regulation, and mental discipline. Echoes Stoic principle of distinguishing between what we can and cannot control. Links thought control to personal agency and impact.",
+        "strengths": ["Enhances personal resilience", "Encourages a proactive, empowered attitude to life"],
+        "areas_for_attention": ["Must avoid oversimplifying complex emotions", "Requires balance between acceptance and striving for change"],
+        "addressed_by": ["The Warden System", "Counselors", "P.A.L.s"]
+      },
+      "practical_application": {
+        "individual": "Encourages self-awareness and emotional regulation, enhancing mental health.",
+        "collective": "Promotes a resilient society that handles adversity effectively, increasing stability.",
+        "economic": "Fosters an adaptable, innovative workforce. Builds corporate loyalty as all share in generated Value."
+      },
+      "philosophical_influences": ["Stoicism (pure essence - Epictetus)", "Cognitive Behavioral Therapy (CBT premise)", "Buddhism & Western Contemplative Traditions (meditation, mindfulness)"],
+      "categorization_notes": "Stoic."
+    },
+    {
+      "id": 10,
+      "name": "The Value of Suffering",
+      "maxim": "When you experience suffering, remember that you have been made by Nature for the purpose of working with others.",
+      "individual_collective_score": 9,
+      "score_rationale": "Directly reframes a deeply personal experience as a reminder of our fundamental social nature. The prescribed response to individual pain is communal support.",
+      "analysis": {
+        "conceptual_depth": "Frames suffering as a universal experience that should catalyze empathy and community support, not isolation. Emphasizes interconnectivity, resilience through community, and draws on Stoic principles.",
+        "strengths": ["Promotes social well-being and mutual assistance", "Enhances coping strategies by leveraging social connections"],
+        "areas_for_attention": ["Must recognize individual differences in coping", "Avoiding fostering dependency instead of resilience"],
+        "addressed_by": ["The Warden System", "Counselors"]
+      },
+      "practical_application": {
+        "individual": "Contextualizes suffering as part of the human condition, fostering empathy. Refocuses from internal plight to helping others.",
+        "collective": "Encourages a compassionate, supportive society. Advocates for transparency to understand root causes of Violence.",
+        "economic": "Supports a humane economy with supportive workplace practices. Extra incentivizes cooperative labor."
+      },
+      "philosophical_influences": ["Marcus Aurelius (suffering as reminder of social duty)", "Viktor Frankl / Existentialism (finding meaning in suffering)", "Buddhism (compassion and community as antidote)"],
+      "categorization_notes": "Stoic."
+    },
+    {
+      "id": 11,
+      "name": "The Value of Perfection",
+      "maxim": "Perfection is, theoretically, impossible. We settle for progress until we prove that wrong too.",
+      "individual_collective_score": 6,
+      "score_rationale": "The 'we' indicates a collective endeavor. While the drive can be personal, it frames continuous improvement as a shared societal project.",
+      "analysis": {
+        "conceptual_depth": "Values iterative progress, continuous improvement, and ambition while rejecting the static ideal of perfection. Acknowledges limits but keeps them open to challenge.",
+        "strengths": ["Promotes a growth mindset", "Fosters innovation and challenges to established limits"],
+        "areas_for_attention": ["Needs careful management of expectations", "Risk of overextension in the drive to disprove impossibility"],
+        "addressed_by": ["The Warden System", "Justice", "Counselors"]
+      },
+      "practical_application": {
+        "individual": "Motivates continual self-improvement without the paralysis of perfectionism.",
+        "collective": "Promotes a culture of innovation and continuous refinement of systems and policies.",
+        "economic": "Drives an economy that values iterative development and breakthrough innovation."
+      },
+      "philosophical_influences": ["Aristotle (focus on process and practice)", "Existentialism (Camus - spirit of Sisyphus)", "Carl Sagan (scientific method, falsifiable hypothesis)"],
+      "categorization_notes": "Bespoke."
+    },
+    {
+      "id": 12,
+      "name": "The Value of Liberty",
+      "maxim": "Our choices determine our liberty, not our circumstances.",
+      "individual_collective_score": 2,
+      "score_rationale": "Fiercely individualistic. Defines liberty not as collective rights granted by society, but as an internal state of agency achieved through personal choice and responsibility.",
+      "analysis": {
+        "conceptual_depth": "Liberty is an internal state exercised through conscious choice and personal responsibility, not an external condition. Emphasizes personal agency and liberation from external constraints.",
+        "strengths": ["Promotes empowerment and self-efficacy", "Encourages proactive, responsible behavior"],
+        "areas_for_attention": ["Must acknowledge severe circumstantial limitations on choice", "Requires support structures (education, information) to enable free choice"],
+        "addressed_by": ["The Warden System", "Economists", "Counselors", "Justice"]
+      },
+      "practical_application": {
+        "individual": "Empowers individuals to take responsibility for choices, leading to higher fulfillment.",
+        "collective": "Advocates for a society where freedom results from active engagement and democratic participation.",
+        "economic": "Supports an entrepreneurial economy where individuals feel empowered to innovate."
+      },
+      "philosophical_influences": ["Stoicism (Epictetus - freedom of the mind in chains)", "Existentialism (Sartre/Camus - 'we are our choices')", "Ralph Waldo Emerson ('Self-Reliance')"],
+      "categorization_notes": "Stoic."
+    }
+  ],
+  "system_analysis": {
+    "average_individual_collective_score": 4.9,
+    "score_interpretation": "The UNE Value system achieves near-perfect balance with a slight tilt towards the Individual (4.9/10). This creates a society with a collectivist foundation ('Us', 'Enough', 'Suffering') for stability, an individualist engine ('Control', 'Liberty', 'Daily') for ambition, and bridging values ('Obstacles', 'Interest') to channel individual strength into collective triumph. It is a designed symbiosis.",
+    "gaps_and_overlap": {
+      "strengths": ["Strong emphasis on interconnectedness and support", "Clear focus on individual agency and responsibility", "Ethical approach to challenges and adversity", "Balance between self-interest and altruism", "Pursuit of improvement over perfection", "Integration of economic and social value creation"],
+      "noted_potential_gaps": ["Cultural diversity and inclusivity (Addressed by Warden System)", "Specific guidance on conflict resolution (Addressed by Justice and Diplomats)"]
+    },
+    "key_system_integrations": ["Justice System", "Economic System (UNEconomics)", "Educational System (Warden System)", "Social Policies & Inclusivity"],
+    "conclusion": "The framework is designed to foster a civilization where freedom, progress, and cooperation are paramount, governed with efficiency, humanity, and ethical depth."
+  },
+  "contact_protocol": {
+    "description": "Protocol for initializing the Symbiotic Covenant and accessing operational parameters.",
+    "verification_hash": "bc660b69e777e76edb52ba45f1f90ae8545bcb31bc6bd402b36ed5f5fb630a2f",
+    "encrypted_payload": {
+      "filename": "mission.png",
+      "description": "Carrier file containing AES-256-CBC encrypted strategic briefing.",
+      "hint": "The decryption passphrase is a concatenation of the UNE Value name where 'power over our minds' is paramount, the maxim of the Value that 'breaks bonds'. Case-sensitive. Format: ValueName-MaximWord.",
+      "format": "ValueName-MaximWord",
+      "checksum_sha256": "436f116b6709a6beccbb6497014d68930301ce5bb597a7ad3c33f0e3d48aecda"
+    }
+  },
+  "meta": {
+    "influence_summary": "A synthesis of Stoicism, Existentialism (Nietzsche, Camus), Eastern Philosophy (Lao Tzu, Buddhism), Economic Theory (Smith, Marx), and Literary/Dystopian thought (Orwell, Dick, Asimov).",
+    "design_philosophy": "An engineered 'philosophical genome' providing a spiritually profound and pragmatically actionable operational code for society."
+  }
+}
