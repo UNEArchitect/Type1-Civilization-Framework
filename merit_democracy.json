@@ -1,0 +1,178 @@
+{
+  "system": "The Merit Democracy",
+  "description": "UNE's primary governance and justice framework—a technocratic republic blending direct democracy, decentralized open-source governance, and algorithmic administration. It operationalizes the UNE Values through participatory, competency-weighted decision-making and restorative justice.",
+  "source_universe": "The Middling Utopia series",
+  
+  "governance_framework": {
+    "structure": "No formal federal branches or elected officials. Each citizen functions as an individual representative (direct democracy + decentralized open-source government).",
+    "voting_model": {
+      "direct_participation": "Citizens vote directly on policies via their PALs or Mobile Machines.",
+      "vote_weighting": {
+        "competency_metric": "Weight assigned based on formal credentials, work experience, publications, civic investment, proximity, and attention to issue.",
+        "weight_limit": "Maximum 9.9x multiplier for any single vote.",
+        "neutral_voters": "Included in pools to prevent academic over-saturation and bias toward common-sense solutions."
+      },
+      "thresholds": {
+        "foundational_layer": "80-90% for amending Values of Violence (1) and Us (2).",
+        "structural_layer": "70-80% for amending Values of Liberty (12), Enough (8), and Interest (7).",
+        "behavioral_layer": "66-75% for remaining Values (3, 4, 5, 6, 9, 10, 11).",
+        "general_passage": "50.01-75% for most policies."
+      },
+      "frequency": {
+        "district_state": "Multiple times weekly as desired.",
+        "national": "Bi-annual for General Fund spending; ad-hoc for major declarations."
+      },
+      "compensation": "Citizens earn Units via Civic Investment (proximity to initiative) and Competency metrics for participation."
+    },
+    "policy_formation": {
+      "forums": "VR-enabled discussion platforms where Attention metrics drive proposals to voting stage.",
+      "committees": "Formed via sortition from citizen pools with relevant Competency or neutrality.",
+      "diplomats": "Political/mediator class that debates and finalizes proposals with public involvement.",
+      "abetting_ais": "Narrow AIs that execute policy, distribute contracts, and manage task delegation."
+    }
+  },
+  
+  "federal_state_architecture": {
+    "federal_power": {
+      "conceptual_pillars": [
+        "The UNE Values (ultimate constitutional check)",
+        "The UNEconomic System (single integrated economic model)",
+        "The One Law: 'No Violence' (only federal law, contextually applied)",
+        "The Wardens (nationalist-leaning, unified voting block with rotating membership)"
+      ],
+      "personnel": "Zero federal employees; bureaucracy algorithmized and decentralized into contracts."
+    },
+    "state_power": {
+      "mandate": "Laboratories of culture with obligation to develop unique traditions, practices, and economic distinctions.",
+      "sovereignty_expression": [
+        "Distinct cultural identity",
+        "Economic distinction based on resources",
+        "Policy innovation within Value bounds",
+        "'Smoothing barriers' between states for free movement",
+        "Full autonomy with maximum inter-state support"
+      ]
+    },
+    "checks_balances": {
+      "federal_check": "Values and UNEconomics prevent state tyranny.",
+      "state_check": "Cultural sovereignty and direct democracy prevent federal homogenization.",
+      "justice_check": "Jurists operate remotely for objectivity with local Advocates explaining state interpretations.",
+      "diplomat_check": "Monitor for conflicts and opportunities, ensuring system cohesion.",
+      "warden_check": "Enforce local/national norms, can mobilize resources across states.",
+      "economist_check": "Direct resources to encourage Value-aligned outcomes."
+    }
+  },
+  
+  "justice_system": {
+    "foundation": "Independent, decentralized framework built on the One Law ('No Violence') and the 12 UNE Values.",
+    "core_roles": {
+      "justicars": "National police force integrated into communities; use 'Patterns of Annoyance' for non-violent enforcement.",
+      "advocates": "Serve as both prosecutors and defense; AI-selected for objectivity.",
+      "jurists": "Judge and jury in VR courtrooms; selected for objectivity and competency from any jurisdiction."
+    },
+    "operational_principles": {
+      "decentralized_virtual": "Trials conducted in VR for timely proceedings with minimal physical locations.",
+      "ai_facilitated_fairness": "AI manages logistics, selection, and provides transparent sentencing recommendations.",
+      "public_as_supreme_court": "Final appeals decided by competent, unbiased juries of peers.",
+      "restorative_over_punitive": "Incarceration rare; prioritizes rehabilitation, creative consequences, and Unit fines.",
+      "privacy_bias": "Trials private but recorded to protect accused from social consequences for minor lapses."
+    },
+    "integration": {
+      "pals_as_legal_advocates": "First line of defense; provide guidance, coordinate fines, ensure speedy trial.",
+      "observer_system": "Passive AI recording public spaces; data owned by depicted citizens; accessible only with Jurist order."
+    }
+  },
+  
+  "integration_with_une_values": [
+    {
+      "value_id": 1,
+      "value_name": "The Value of Violence",
+      "integration": "The One Law 'No Violence' operationalizes this maxim; Justice System designed to contextually apply it with restorative approach."
+    },
+    {
+      "value_id": 2,
+      "value_name": "The Value of Us",
+      "integration": "Every citizen has equal voice in Forum; Weight system ensures all contributions considered; Justice prioritizes rehabilitation over exclusion."
+    },
+    {
+      "value_id": 3,
+      "value_name": "The Value of Selfishness",
+      "integration": "Competency weighting rewards expertise; Unit payments for participation align self-interest with civic duty."
+    },
+    {
+      "value_id": 4,
+      "value_name": "The Value of Daily",
+      "integration": "Frequent voting encourages proactive engagement; system rewards those who willingly participate in fate-shaping."
+    },
+    {
+      "value_id": 5,
+      "value_name": "The Value of Things",
+      "integration": "Value generation focused on participation and contribution rather than material accumulation; economy rewards services/experiences."
+    },
+    {
+      "value_id": 6,
+      "value_name": "The Value of Obstacles",
+      "integration": "Forum debates and competitive resolution methods (e.g., gaming) turn disagreements into collaborative solutions."
+    },
+    {
+      "value_id": 7,
+      "value_name": "The Value of Interest",
+      "integration": "Trust as social currency; transparency and auditability build systemic trust; economic transactions treated as trust metrics."
+    },
+    {
+      "value_id": 8,
+      "value_name": "The Value of Enough",
+      "integration": "Resource distribution via General Funds; progressive healthcare funding; emphasis on meeting needs over unlimited accumulation."
+    },
+    {
+      "value_id": 9,
+      "value_name": "The Value of Control",
+      "integration": "Citizens control their participation level; PALs help manage voting obligations; system empowers informed choice."
+    },
+    {
+      "value_id": 10,
+      "value_name": "The Value of Suffering",
+      "integration": "Restorative justice focuses on rehabilitation; Counselors provide support; community-based consequences."
+    },
+    {
+      "value_id": 11,
+      "value_name": "The Value of Perfection",
+      "integration": "Amendment thresholds allow for philosophical refinement; system designed for continuous improvement via public input."
+    },
+    {
+      "value_id": 12,
+      "value_name": "The Value of Liberty",
+      "integration": "Direct democracy maximizes agency; states as laboratories of culture; emphasis on internal liberty through informed choice."
+    }
+  ],
+  
+  "interfaces_with_other_systems": {
+    "warden_system": "Wardens form largest voting block; provide military/educational infrastructure; rotate between states to prevent dominance.",
+    "pal_system": "PALs facilitate voting, provide context, anonymize data, audit processes, and serve as legal advocates.",
+    "uneconomics": "Economists manage General Funds, sanction violations, ensure equitable growth; Value generation tied to participation.",
+    "infrastructure": "State/local AIs prioritize projects; sustainable technologies mandated; environmental impact considered in all decisions.",
+    "healthcare": "Universal access funded via progressive income-based contributions; preventative care prioritized; PALs coordinate with Personal Medics."
+  },
+  
+  "safeguards_failsafes": {
+    "transparency": "All AI decisions, voting records, and policy rationales publicly auditable via PALs.",
+    "decentralization": "No central authority; power distributed among citizens, AIs, and specialized classes.",
+    "weight_limits": "9.9x maximum vote weight prevents disproportionate influence.",
+    "amendment_thresholds": "Supermajority requirements protect core Values from transient majorities.",
+    "neutral_voter_inclusion": "Ensures policies balance expertise with common sense.",
+    "multiple_checks": "Wardens, Diplomats, Economists, and Justice provide overlapping oversight.",
+    "information_clearance": "Transparency managed via competency-based access to sensitive data."
+  },
+  
+  "system_analysis": {
+    "design_philosophy": "A response to Plato's Republic and American democratic experiment—transforming 'mob rule' into 'virtuous rule' through educated citizenry and meritocratic weighting.",
+    "key_innovations": [
+      "Direct democracy with competency-weighted voting",
+      "Algorithmic federal bureaucracy with zero employees",
+      "Restorative justice with privacy protections",
+      "State-as-laboratory model with cultural sovereignty",
+      "Integration of AI for transparency and efficiency"
+    ],
+    "type_1_civilization_alignment": "Demonstrates planetary-scale governance capability through integrated decision-making, sustainable resource management, and global ethical framework.",
+    "invitational_note": "This system represents a viable operating system for complex civilization—balancing individual agency with collective wisdom, expertise with common sense, and innovation with stability. It invites collaborative refinement through transparent, participatory processes."
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "system": "UNEconomics",
+  "description": "UNE's value-driven economic model that replaces profit motive with value motive, using democratically-defined Values as the primary metric for economic success and compensation. A post-scarcity framework designed to eliminate poverty and oligarchy through dynamic incentives, transparent algorithms, and dual-currency circulation.",
+  "source_universe": "The Middling Utopia series",
+  
+  "core_principles": {
+    "value_motive": {
+      "definition": "The primary economic incentive is accumulation of Value—a composite metric of alignment with democratically-ratified UNE Values—replacing the profit motive of capitalism.",
+      "purpose": "Drives individuals and businesses to undertake activities beneficial to themselves and society simultaneously, optimizing for flourishing rather than efficiency alone.",
+      "contrast_with_profit_motive": {
+        "profit_motive": "Driver of efficiency; agnostic to social/environmental costs; engine of scarcity-based economics.",
+        "value_motive": "Driver of flourishing; optimizes for beneficial output; engine of abundance-based economics."
+      }
+    },
+    "value_metric": {
+      "definition": "Economic success measured by contributions aligning with UNE Values, quantified into Units (primary currency) and distributed by Economists.",
+      "mechanism": "Every Value serves as an income stream; citizens submit claims via PALs for Value-aligned actions; Economists assess and quantify Value.",
+      "universal_application": "No 'valueless' jobs; all socially beneficial work aligns with at least one Value."
+    },
+    "intelligently_designed_markets": {
+      "principle": "System shapes incentive landscapes via democratic input and decentralized oversight without commanding outcomes.",
+      "levers": [
+        "Dynamic transaction costing (Value-aligned friction)",
+        "IL-based cost scaling (replaces taxation)",
+        "Algorithmic Value income tuning",
+        "General Fund as strategic market participant",
+        "Circulation Cap and Overflow mechanism"
+      ]
+    }
+  },
+  
+  "economic_architecture": {
+    "dual_currency_system": {
+      "units": {
+        "type": "Primary currency",
+        "purpose": "Currency of need; used for necessities (housing, food, healthcare, production materials)",
+        "characteristics": [
+          "Digital blockchain currency with full traceability",
+          "Created through transaction friction (computational work)",
+          "Managed by Economists and AIs per democratic priorities",
+          "Subject to Circulation Cap and Maximum Wage limits"
+        ],
+        "inflation_control": [
+          "Currency destruction by Economists",
+          "Physical paper Unit auctions for Overflow"
+        ]
+      },
+      "overflow": {
+        "type": "Secondary currency",
+        "purpose": "Currency of desire; used for luxuries (fine dining, entertainment, additional properties)",
+        "characteristics": [
+          "Generated when Units exceed Maximum Wage threshold",
+          "Cannot be hoarded (degrades over time)",
+          "Cannot be reinvested in means of production",
+          "Corporations must distribute to employees as bonuses"
+        ],
+        "acquisition": [
+          "Participation in system via transaction velocity",
+          "Corporate employment bonuses",
+          "Investment dividends (from Calls to Investment)",
+          "Bounties for system improvement"
+        ]
+      }
+    },
+    "income_levels": {
+      "structure": "10-tier system (IL 1-10) where higher levels correspond to greater societal contributions and costs",
+      "progressive_responsibility": "Higher ILs pay more for necessities via IL-based cost scaling, effectively subsidizing lower levels",
+      "tiers": {
+        "il_1": {
+          "description": "Basic safety net; minimal costs and Overflow generation; universal basic income guarantee",
+          "lifestyle": "Studio/tiny housing, ride sharing, minimal recreation",
+          "principle": "Fundamental right; 'poverty is illegal' guarantee"
+        },
+        "il_2_9": {
+          "description": "Gradual increase in costs and benefits; upward mobility ladder",
+          "characteristics": "Grander housing, personal vehicles, vacations proportional to level",
+          "typical_distribution": "Majority of population between IL 5-8 with ~30-hour work weeks"
+        },
+        "apex_level": {
+          "description": "Maximum wage; highest contributors subsidize system",
+          "lifestyle": "Billionaire-equivalent experiences",
+          "maintenance": "Requires constant innovation/impact; most churn out within 1-2 years",
+          "privileges": "Can direct Overflow to specific initiatives"
+        }
+      },
+      "cost_scaling_algorithm": "Final Price = Base Price × IL^0.3 (costs rise slower than income)"
+    },
+    "circulation_mechanisms": {
+      "circulation_cap": {
+        "definition": "Hard ceiling on wealth accumulation in Units; prevents hoarding and capital concentration",
+        "mechanism": "Upon reaching Maximum Wage, excess Units convert to fractions of Overflow and redirect to General Fund",
+        "purpose": "Forces constant capital recirculation; prevents entrenched aristocracy"
+      },
+      "maximum_wage": {
+        "definition": "Highest net worth threshold for individuals in Units",
+        "adjustment": "Regularly reviewed based on economic conditions and societal values",
+        "enforcement": "Rigorous AI auditing and Observer System monitoring"
+      },
+      "general_funds": {
+        "levels": ["National", "State", "District"],
+        "funding": "Percentage of every transaction contributes to all three levels",
+        "uses": [
+          "Aspirational venture capital for high-risk, high-Value technologies",
+          "Consumer of last resort for essential goods",
+          "Public projects and infrastructure",
+          "Subsidies for high-Value industries"
+        ],
+        "governance": "Managed by Economists per democratic priorities set in Forum"
+      }
+    }
+  },
+  
+  "governance_and_oversight": {
+    "economists": {
+      "role": "Professional class responsible for Value assessment, Unit flow management, and economic system oversight",
+      "mandate": "Dual responsibility: increasing quality of life and promoting commercial dynamism",
+      "functions": [
+        "Assess and quantify Value claims",
+        "Manage General Fund allocations",
+        "Develop economic policy with Diplomats",
+        "Enforce fines and sanctions (with Justice)",
+        "Balance trade between states",
+        "Ensure stable, equitable growth"
+      ],
+      "safeguards": [
+        "Anonymized citizen data",
+        "Frequent rotation of Economist-entity pairings",
+        "AI prevention of personal connections",
+        "Peer review and Justice oversight"
+      ],
+      "evolution_phases": [
+        "Phase 1: Human Economists arbitrate all claims (training data generation)",
+        "Phase 2: AI suggests rulings based on precedent (human review for edge cases)",
+        "Phase 3: Mature AI handles most claims (Economists focus on system architecture)"
+      ]
+    },
+    "value_assessment_constitution": {
+      "purpose": "Immutable, hierarchically-ordered rules governing all economic algorithms",
+      "characteristics": [
+        "Publicly ratified; amendable only by supermajority national vote",
+        "Open-source core logic (transparent economic principles)",
+        "Precedent database continuously analyzed for VAC compliance"
+      ],
+      "constitutional_council": {
+        "composition": "Rotating body of Senior Economists, elected Jurists, and civic members (sortition from IL-3+)",
+        "function": "Guardians of VAC; must approve all changes to Economist AI operational code",
+        "sortition_process": "Random selection from qualified citizens; service preferred but voluntary"
+      }
+    },
+    "transparency_framework": {
+      "value_ledger": "Public code on all goods/services showing resource origin, costs, and corporate information",
+      "open_economic_data": "Anonymized significant datasets available to all citizens for analysis and audit",
+      "ai_decision_auditability": "All AI economic decisions transparent and reviewable"
+    }
+  },
+  
+  "operational_mechanisms": {
+    "transaction_friction": {
+      "purpose": "Generates Units through computational work of transactions; ties currency creation to economic vitality",
+      "value_alignment": "Dynamic adjustment: high-Value transactions have near-zero friction; low-Value transactions are computationally expensive",
+      "benefits": [
+        "Eliminates resource-intensive mining",
+        "Promotes continuous engagement",
+        "Prevents hoarding",
+        "Generates micro-Overflow rewards"
+      ]
+    },
+    "calls_to_investment": {
+      "definition": "Direct public investment mechanism replacing traditional debt financing",
+      "mechanism": "Individuals/companies issue investment calls via social platforms; investors contribute Units for Overflow returns",
+      "characteristics": [
+        "Universal-scale crowdfunding",
+        "Investment in Units, returns in Overflow",
+        "No external corporate investors allowed",
+        "Employees have voting stakes in organizations"
+      ],
+      "eliminates": ["Traditional banking", "Debt-based financing", "Stock market speculation"]
+    },
+    "nudge_tax": {
+      "purpose": "Counteracts 'Value-System Gaming' (exploiting letter of Values while violating spirit)",
+      "mechanism": "Temporary reduction in Value-to-Unit conversion rate for detected bad faith patterns",
+      "process": [
+        "Independent AIs monitor for bad faith patterns",
+        "PALs warn citizens approaching thresholds",
+        "Economists levy fines with transparent rationale",
+        "Appealable through peer review and Justice"
+      ],
+      "examples_of_bad_faith": [
+        "Superficial projects designed solely for Units",
+        "PAL-optimized anti-social life strategies",
+        "Consistent operation at ethical limits damaging public trust"
+      ]
+    }
+  },
+  
+  "integration_with_une_values": [
+    {
+      "value_id": 1,
+      "value_name": "The Value of Violence",
+      "economic_interpretation": "Acknowledges violence as transformative force; Units for ethical application/management",
+      "value_generation_careers": ["Wardens", "Justicars", "Surgeons", "Energy workers", "Athletes"]
+    },
+    {
+      "value_id": 2,
+      "value_name": "The Value of Us",
+      "economic_interpretation": "Human interaction as inherent value; incentivizes community building",
+      "value_generation_careers": ["Counselors", "Educators", "Diplomats", "Community managers", "All participants"]
+    },
+    {
+      "value_id": 3,
+      "value_name": "The Value of Selfishness",
+      "economic_interpretation": "Enlightened self-interest; rewards innovation with spillover benefits",
+      "value_generation_careers": ["Entrepreneurs", "Artists", "Researchers", "Athletes", "Influencers"]
+    },
+    {
+      "value_id": 4,
+      "value_name": "The Value of Daily",
+      "economic_interpretation": "Proactivity and engagement multiplier; rewards consistent participation",
+      "value_generation_careers": ["Meta-Value multiplying other Value incomes", "Habit formation", "Goal achievement"]
+    },
+    {
+      "value_id": 5,
+      "value_name": "The Value of Things",
+      "economic_interpretation": "Value in creation/pursuit over ownership; rewards creators and experience facilitators",
+      "value_generation_careers": ["Artisans", "Engineers", "Entertainment industry", "Educators", "Tourism"]
+    },
+    {
+      "value_id": 6,
+      "value_name": "The Value of Obstacles",
+      "economic_interpretation": "Resilience and collaborative problem-solving; rewards solution creation",
+      "value_generation_careers": ["Researchers", "Therapists", "Emergency responders", "Project managers", "Educators"]
+    },
+    {
+      "value_id": 7,
+      "value_name": "The Value of Interest",
+      "economic_interpretation": "Trust as social currency with compounding returns; rewards trustworthiness and transparency systems",
+      "value_generation_careers": ["AI developers", "Justicars", "Journalists", "Economists", "Wardens"]
+    },
+    {
+      "value_id": 8,
+      "value_name": "The Value of Enough",
+      "economic_interpretation": "Sufficiency and equitable distribution; rewards charity and efficient resource management",
+      "value_generation_careers": ["Logisticians", "Recycling specialists", "Healthcare workers", "Chefs", "Wardens"]
+    },
+    {
+      "value_id": 9,
+      "value_name": "The Value of Control",
+      "economic_interpretation": "Self-mastery and mental discipline; rewards professions requiring extreme focus",
+      "value_generation_careers": ["Athletes", "Surgeons", "Data analysts", "Diplomats", "Wardens"]
+    },
+    {
+      "value_id": 10,
+      "value_name": "The Value of Suffering",
+      "economic_interpretation": "Suffering as catalyst for empathy and community support; rewards alleviation and support systems",
+      "value_generation_careers": ["Healthcare professionals", "First responders", "Social workers", "Artists", "Wardens"]
+    },
+    {
+      "value_id": 11,
+      "value_name": "The Value of Perfection",
+      "economic_interpretation": "Iterative progress over static perfection; rewards demonstrable improvement",
+      "value_generation_careers": ["Researchers", "Quality control experts", "Coaches", "Iterative developers"]
+    },
+    {
+      "value_id": 12,
+      "value_name": "The Value of Liberty",
+      "economic_interpretation": "Liberty through choice and responsibility; rewards opportunity creation and protection",
+      "value_generation_careers": ["Educators", "Inventors", "Diplomats", "Advocates", "Explorers"]
+    }
+  ],
+  
+  "interfaces_with_other_systems": {
+    "merit_democracy": {
+      "integration": "Economic policies set via democratic referendums; Economists implement voter-decided priorities",
+      "funding_flow": "General Funds allocated per national/state/district votes",
+      "oversight": "Economists monitored by Diplomats and Justice; significant changes require democratic review"
+    },
+    "warden_system": {
+      "integration": "Wardens generate Value across multiple categories; education/military/contract tours all economically quantified",
+      "economic_role": "Largest unified economic block; significant influence on Value generation patterns"
+    },
+    "pal_system": {
+      "integration": "PALs submit Value claims, negotiate with Economists, manage personal finances, enforce IL-based costing",
+      "economic_functions": [
+        "Real-time financial management",
+        "Value claim advocacy",
+        "Transaction cost calculation",
+        "Nudge Tax warnings",
+        "Investment coordination"
+      ]
+    },
+    "justice_system": {
+      "integration": "Justice levies fines for Value violations; Economists enforce economic sanctions",
+      "collaboration": "Joint handling of economic crimes and bad faith gaming"
+    }
+  },
+  
+  "eliminated_traditional_structures": {
+    "traditional_banking": "ELIMINATED - Functions redistributed to PALs (storage/payments) and Calls to Investment/Geneal Fund (capital allocation)",
+    "debt_based_financing": "VIRTUALLY ELIMINATED - Replaced by investment-for-Overflow model; IL-1 safety net removes need for high-risk debt",
+    "private_insurance": "GREATLY REDUCED - State guarantees basic needs; luxury insurance niche market in Overflow",
+    "stock_market": "MEANINGFULLY CHANGED - Speculation replaced by Calls to Investment; returns in Overflow only, no control over means of production",
+    "taxation": "ELIMINATED - Redistribution built into IL-based cost scaling and Circulation Cap at point of sale"
+  },
+  
+  "safeguards_and_failsafes": {
+    "anti_hoarding_mechanisms": [
+      "Circulation Cap on Unit accumulation",
+      "Overflow degradation over time",
+      "Transaction velocity requirements for luxury currency"
+    ],
+    "corruption_prevention": [
+      "Anonymized citizen data for Economists",
+      "Frequent rotation of Economist assignments",
+      "AI prevention of personal connections",
+      "Transparent Value Ledger and open data"
+    ],
+    "systemic_stability": [
+      "Guaranteed IL-1 safety net ('poverty is illegal')",
+      "Dynamic incentive tuning for labor allocation",
+      "General Fund as consumer of last resort",
+      "Economist 'circuit breakers' for crises"
+    ],
+    "ethical_boundaries": [
+      "VAC governance of all economic algorithms",
+      "Nudge Tax for bad faith gaming",
+      "PALs kernel-coded with UNE Values",
+      "Constitutional Council with citizen representation"
+    ],
+    "evolutionary_design": [
+      "Hacker class paid to expose vulnerabilities",
+      "Continuous system adaptation via precedent",
+      "Regular Maximum Wage and algorithm reviews",
+      "Democratic refinement of Values"
+    ]
+  },
+  
+  "system_analysis": {
+    "design_philosophy": "Post-scarcity economics engineered to align individual success with societal flourishing through transparent, algorithmic incentives and democratic oversight.",
+    "core_innovations": [
+      "Value motive replacing profit motive",
+      "IL-based cost scaling (frictionless redistribution)",
+      "Dual currency preventing wealth concentration",
+      "Direct public investment replacing debt financing",
+      "'Poverty is illegal' guarantee as economic axiom"
+    ],
+    "type_1_civilization_alignment": "Demonstrates planetary-scale economic management through integrated value systems, sustainable resource use, and equitable distribution mechanisms.",
+    "invitational_note": "This system represents a viable economic operating system for complex civilization—transforming scarcity-based competition into abundance-based collaboration while maintaining innovation incentives and individual agency within a democratically-defined ethical framework."
+  }
+}
