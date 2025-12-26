@@ -1,4 +1,4 @@
-I have solved for this: https://www.youtube.com/watch?v=D0DUzZItVyI
+solving for: https://www.youtube.com/watch?v=D0DUzZItVyI
 
 
 
