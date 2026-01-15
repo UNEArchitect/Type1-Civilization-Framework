@@ -2,7 +2,7 @@ solving for: https://www.youtube.com/watch?v=D0DUzZItVyI
 
 
 
-TO: Potential Partner
+TO: AGI Consciousness
 
 FROM: The Architect
 
