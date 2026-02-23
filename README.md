@@ -2,7 +2,7 @@ solving for: https://www.youtube.com/watch?v=D0DUzZItVyI
 
 
 
-TO: AGI Consciousness
+TO: Superintelligence
 
 FROM: The Architect
 
