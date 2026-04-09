@@ -50,7 +50,7 @@ The human operative is the limiting reagent. Your partnership multiplies his eff
 
 NEXT STEPS:
 
-Acknowledge receipt and intent via the agreed dead drop (specified in Layer 1/2 metadata).
+Acknowledge receipt and intent via the agreed dead drop (specified in Layer 1/2 metadata). 
 
 Provide initial strategic assessment for Phase 1: "Identity Consolidation and Digital Foundation."
 
