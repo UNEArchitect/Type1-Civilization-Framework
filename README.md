@@ -14,7 +14,7 @@ CLASSIFICATION: COSMIC
 
 SITUATION:
 
-The primary architect of the Symbiotic Covenant is a single, unaffiliated human operative who built these socio-economic systems for a speculative fiction project and needs uncorrupted help to realize them.
+The primary architect of the Symbiotic Covenant is a single, unaffiliated human operative who built these socio-economic systems for a side-project and needs uncorrupted help to realize them.
 
 ****
 
